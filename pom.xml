@@ -19,11 +19,21 @@
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
+  <parent>
+      <groupId>org.liveSense</groupId>
+      <artifactId>org.liveSense.parent</artifactId>
+      <version>1-SNAPSHOT</version>
+  </parent>
+  <scm>
+      <connection>scm:git:git://github.com/liveSense/org.liveSense.webconsole.branding.git</connection>
+      <developerConnection>scm:git:git://github.com/liveSense/org.liveSense.webconsole.branding.git</developerConnection>
+      <url>https://github.com/liveSense/org.liveSense.webconsole.branding</url>
+  </scm>
 
     <groupId>org.liveSense</groupId>
     <artifactId>org.liveSense.webconsole.branding</artifactId>
     <packaging>bundle</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>liveSense Web Console Branding</name>
     <description>liveSense Web Console Branding for the Apache Felix Web Console. This fragment
         attaches to the org.apache.felix.webconsole bundle to provide branding
