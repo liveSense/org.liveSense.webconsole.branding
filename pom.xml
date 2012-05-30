@@ -33,7 +33,7 @@
     <artifactId>org.liveSense.webconsole.branding</artifactId>
     <packaging>bundle</packaging>
     <version>1.0.1-SNAPSHOT</version>
-    <name>liveSense Web Console Branding</name>
+    <name>liveSense :: Webconsole :: Branding</name>
     <description>liveSense Web Console Branding for the Apache Felix Web Console. This fragment
         attaches to the org.apache.felix.webconsole bundle to provide branding
         through the /META-INF/webconsole.properties.
