@@ -2,9 +2,3 @@
 
 ## Description
 liveSense Web Console Branding for the Apache Felix Web Console. This fragment attaches to the org.apache.felix.webconsole bundle to provide branding through the /META-INF/webconsole.properties.
-
-## OSGi Exported packages
-
-## OSGi Dependencies
-
-## OSGi Embedded JARs
