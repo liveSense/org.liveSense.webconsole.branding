@@ -25,11 +25,11 @@
       <version>2-SNAPSHOT</version>
 		<relativePath>..</relativePath>
   </parent>
-  <scm>
-      <connection>scm:git:git://github.com/liveSense/org.liveSense.webconsole.branding.git</connection>
-      <developerConnection>scm:git:git://github.com/liveSense/org.liveSense.webconsole.branding.git</developerConnection>
-      <url>https://github.com/liveSense/org.liveSense.webconsole.branding</url>
-  </scm>
+	<scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.webconsole.branding.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.webconsole.branding.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.webconsole.branding</url>
+	</scm>
 
     <artifactId>org.liveSense.webconsole.branding</artifactId>
     <packaging>bundle</packaging>
