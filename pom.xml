@@ -22,9 +22,10 @@
   <parent>
       <groupId>com.github.livesense</groupId>
       <artifactId>org.liveSense.parent</artifactId>
-      <version>2-SNAPSHOT</version>
+      <version>1.0.3</version>
 		<relativePath>..</relativePath>
   </parent>
+  <version>1.0.3-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:https://github.com/liveSense/org.liveSense.webconsole.branding.git</connection>
 		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.webconsole.branding.git</developerConnection>
@@ -33,7 +34,6 @@
 
     <artifactId>org.liveSense.webconsole.branding</artifactId>
     <packaging>bundle</packaging>
-    <version>1.0.1-SNAPSHOT</version>
     <name>liveSense :: Webconsole :: Branding</name>
     <description>liveSense Web Console Branding for the Apache Felix Web Console. This fragment
         attaches to the org.apache.felix.webconsole bundle to provide branding
